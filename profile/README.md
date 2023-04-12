@@ -9,6 +9,7 @@ However, as of yet, we do not have a set release date for the server.
 ## Our Team
 
 - 📝 **[Atlas](https://github.com/8char)** - The Founder & UI/UX Developer bringing things such as the servers UI Framework to the table.
+- 📝 **[Reg](https://github.com/reg55158)** - UI Engineer - Backend :)
 
 ### Key
 * 📝 - Project Manager
